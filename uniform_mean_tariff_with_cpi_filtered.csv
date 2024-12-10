@@ -1,0 +1,1409 @@
+Year,expenditure_category,mfn_text_rate_mean,mfn_ad_val_rate_mean,cpi_percentage_change
+2017,dairy and related products,12.02,0.12,1.3
+2017,electricity,3.5,0.03,4.9
+2017,energy commodities,4.88,0.04,-10.1
+2017,motor fuel,2.87,0.03,-10.4
+2017,alcoholic beverages,5.5,0.05,1.9
+2017,apparel,8.55,0.08,0.3
+2017,apparel less footwear,9.72,0.09,0.1
+2017,bakery products4,9.25,0.09,1.3
+2017,bakery products5,10.0,0.1,1.8
+2017,beverage materials including coffee and tea5,10.0,0.1,1.2
+2017,beverage materials including coffee and tea6,3.7,0.03,-0.9
+2017,boys and girls footwear,8.5,0.08,0.9
+2017,breakfast sausage and related products67,3.8,0.04,2.8
+2017,candy and chewing gum45,5.25,0.05,4.8
+2017,canned fruits and vegetables5,5.8,0.06,-2.4
+2017,canned fruits and vegetables6,9.6,0.09,3.9
+2017,canned vegetables56,4.9,0.05,-0.6
+2017,carbonated drinks,2.88,0.02,2.1
+2017,cereals and bakery products,6.53,0.06,1.7
+2017,cereals and cereal products,6.2,0.06,0.6
+2017,citrus fruits5,6.05,0.06,5.4
+2017,clocks lamps and decorator items5,2.6,0.02,1.2
+2017,cosmetics perfume bath nail preparations and implements5,4.75,0.04,-1.8
+2017,dairy and related products,8.65,0.08,1.3
+2017,dishes and flatware45,9.09,0.09,-8.4
+2017,dishes and flatware56,15.76,0.16,-8
+2017,distilled spirits excluding whiskey at home6,1.9,0.01,-0.4
+2017,dried beans peas and lentils456,5.8,0.05,4.6
+2017,electricity,6.13,0.06,4.9
+2017,eyeglasses and eye care49,2.62,0.02,4.3
+2017,eyeglasses and eye care510,2.62,0.02,1.3
+2017,fats and oils,3.38,0.03,2.4
+2017,fish and seafood,7.75,0.08,-2.3
+2017,floor coverings45,4.55,0.04,-4.6
+2017,flour and prepared flour mixes,7.88,0.07,-0.2
+2017,food at elementary and secondary schools486,6.4,0.06,-43.5
+2017,footwear,15.57,0.15,1.0
+2017,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2017,fresh fish and seafood45,5.3,0.05,-0.8
+2017,fresh fruits,6.31,0.06,3.6
+2017,fresh vegetables,10.05,0.1,0.8
+2017,frozen and freeze dried prepared foods,10.94,0.1,-0.4
+2017,frozen and freeze dried prepared foods4,9.53,0.09,-1.0
+2017,frozen and freeze dried prepared foods5,11.2,0.11,0.9
+2017,frozen fish and seafood6,6.0,0.06,4.3
+2017,frozen fish and seafood7,8.25,0.08,1.5
+2017,frozen fruits and vegetables5,9.7,0.09,-1.6
+2017,frozen fruits and vegetables6,3.2,0.03,-0.2
+2017,frozen noncarbonated juices and drinks45,8.97,0.09,13.3
+2017,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2017,frozen vegetables6,13.1,0.12,-1.2
+2017,fruits and vegetables,3.03,0.03,1.7
+2017,fuel oil and other fuels,2.95,0.02,-7.0
+2017,furniture and bedding,5.37,0.05,1.6
+2017,gasoline all types,3.3,0.03,-10.3
+2017,hair dental shaving and miscellaneous personal care products45,6.28,0.06,6.0
+2017,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2017,ham,14.1,0.14,-1.9
+2017,household cleaning products45,2.74,0.02,0.9
+2017,household cleaning products5,4.5,0.04,1.8
+2017,household furnishings and operations,26.0,0.26,-0.6
+2017,household furnishings and supplies11,5.0,0.05,0.6
+2017,household furnishings and supplies12,5.3,0.05,0.4
+2017,household paper products45,4.35,0.04,-0.1
+2017,household paper products56,2.93,0.03,5.6
+2017,ice cream and related products,19.0,0.19,1.4
+2017,indoor plants and flowers12,6.85,0.06,1.4
+2017,indoor plants and flowers13,17.0,0.17,-0.6
+2017,infants and toddlers apparel,14.97,0.15,-4.0
+2017,intracity transportation4,2.0,0.02,1.1
+2017,intracity transportation5,2.0,0.02,2.6
+2017,jewelry and watches10,7.76,0.07,-2.1
+2017,jewelry and watches9,5.46,0.05,-0.5
+2017,jewelry10,6.06,0.06,3.7
+2017,jewelry9,5.2,0.05,-0.6
+2017,juices and nonalcoholic drinks5,5.5,0.05,2.5
+2017,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2017,laundry equipment46,2.67,0.02,7.9
+2017,meats poultry fish and eggs,8.75,0.08,1.0
+2017,medicinal drugs11,6.3,0.06,1.1
+2017,medicinal drugs412,6.5,0.06,0.9
+2017,mens and boys apparel,10.07,0.1,-2.7
+2017,mens apparel,14.07,0.14,-4.1
+2017,mens footwear4,7.83,0.08,2.2
+2017,mens footwear5,8.93,0.08,-0.2
+2017,mens pants and shorts,11.73,0.11,-1.6
+2017,mens shirts and sweaters5,6.13,0.06,6.1
+2017,mens shirts and sweaters6,11.18,0.11,-2.8
+2017,mens suits sport coats and outerwear,13.4,0.13,-9.8
+2017,mens underwear nightwear swimwear and accessories,7.5,0.07,1.6
+2017,mens underwear nightwear swimwear and accessories4,4.43,0.04,5.2
+2017,motor vehicle body work4,2.5,0.02,0.7
+2017,motor vehicle parts and equipment4,2.75,0.02,2.9
+2017,motor vehicle parts and equipment5,3.25,0.03,1.7
+2017,music instruments and accessories45,3.83,0.03,-0.1
+2017,music instruments and accessories56,4.2,0.04,2.7
+2017,nonalcoholic beverages and beverage materials,4.6,0.04,1.9
+2017,nonelectric cookware and tableware45,4.88,0.04,0.9
+2017,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2017,nonprescription drugs412,5.1,0.04,1.6
+2017,nonprescription drugs512,6.15,0.06,0.5
+2017,oranges including tangerines6,2.7,0.02,12.4
+2017,other bakery products,6.75,0.06,3.4
+2017,other beverage materials including tea45,3.0,0.03,3.9
+2017,other beverage materials including tea56,12.1,0.12,0.6
+2017,other condiments6,6.95,0.06,5.2
+2017,other dairy and related products45,13.33,0.13,-0.1
+2017,other dairy and related products5,13.75,0.14,2.0
+2017,other dairy and related products56,8.2,0.08,-0.8
+2017,other foods,1.4,0.01,2.6
+2017,other fresh fruits5,4.5,0.04,3.2
+2017,other fresh vegetables,15.2,0.15,2.6
+2017,other furniture45,3.5,0.03,1.8
+2017,other household equipment and furnishings5,3.54,0.03,-1.0
+2017,other intercity transportation,8.25,0.08,-5.7
+2017,other linens45,10.69,0.1,3.9
+2017,other linens5,8.8,0.08,-3.6
+2017,other linens56,4.5,0.04,-6.2
+2017,other pork including roasts and picnics5,4.8,0.04,5.4
+2017,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2017,other processed fruits and vegetables including dried5,8.03,0.08,0.4
+2017,other processed fruits and vegetables including dried6,2.9,0.02,-0.4
+2017,other recreational goods6,3.5,0.03,-4.3
+2017,outdoor equipment and supplies45,2.4,0.02,-2.2
+2017,peanut butter567,43.9,0.43,-7.5
+2017,photographers and film processing45,6.8,0.06,-1.4
+2017,photographic equipment and supplies,2.0,0.02,-0.9
+2017,photographic equipment56,3.4,0.03,-1.8
+2017,postage,4.7,0.04,16.1
+2017,potatoes,9.25,0.09,-0.9
+2017,prescription drugs11,3.7,0.03,0.8
+2017,prescription drugs4,6.0,0.06,0.4
+2017,processed fish and seafood5,12.88,0.13,-1.9
+2017,processed fish and seafood6,5.67,0.06,-1.9
+2017,processed fruits and vegetables5,12.63,0.12,-0.5
+2017,processed fruits and vegetables6,2.3,0.02,1.5
+2017,recreation commodities11,5.0,0.05,-2.3
+2017,rice pasta cornmeal5,4.7,0.04,2.7
+2017,salt and other seasonings and spices67,6.5,0.06,-0.2
+2017,sewing machines fabric and supplies45,9.14,0.09,-4.8
+2017,sewing machines fabric and supplies56,8.21,0.08,5.5
+2017,soups,3.2,0.03,1.4
+2017,spices seasonings condiments sauces,3.77,0.03,1.6
+2017,sports equipment,6.05,0.06,-1.4
+2017,sports equipment4,4.0,0.04,-2.4
+2017,sugar and artificial sweeteners,5.42,0.05,-4.2
+2017,sugar and sugar substitutes,7.84,0.08,1.7
+2017,sugar and sweets4,6.0,0.06,3.9
+2017,sugar and sweets5,6.43,0.06,4.4
+2017,televisions,2.06,0.02,-1.5
+2017,tobacco and smoking products,350.0,3.5,4.3
+2017,tobacco products other than cigarettes45,350.0,3.5,4.5
+2017,tobacco products other than cigarettes56,350.0,3.5,2.7
+2017,tomatoes,9.85,0.09,3.9
+2017,tomatoes4,11.6,0.11,-4.3
+2017,tools hardware and supplies56,9.0,0.09,2
+2017,toys,4.3,0.04,-2.8
+2017,transportation commodities less motor fuel11,25.0,0.25,-0.8
+2017,transportation services,5.3,0.05,7.9
+2017,uncooked beef steaks6,6.4,0.06,2.5
+2017,uncooked ground beef4,4.0,0.04,2.3
+2017,uncooked ground beef5,4.5,0.04,4.7
+2017,used cars and trucks,2.5,0.02,-2.2
+2017,vehicle parts and equipment other than tires46,3.58,0.03,8.7
+2017,vehicle parts and equipment other than tires57,4.0,0.04,2.4
+2017,watches49,9.0,0.09,7.4
+2017,window and floor coverings and other linens45,9.3,0.09,6.8
+2017,window and floor coverings and other linens5,8.85,0.08,-3.4
+2017,womens and girls apparel,10.23,0.1,-0.1
+2017,womens apparel,11.61,0.11,-0.1
+2017,womens dresses,12.18,0.12,-4.3
+2017,womens footwear,10.0,0.1,1.1
+2017,womens outerwear,4.94,0.05,-4.4
+2017,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2017,womens underwear nightwear swimwear and accessories5,10.32,0.1,0.6
+2017,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
+2018,dairy and related products,12.02,0.12,1.3
+2018,electricity,3.1,0.03,4.9
+2018,energy commodities,5.04,0.05,-10.1
+2018,motor fuel,2.87,0.03,-10.4
+2018,alcoholic beverages,5.5,0.06,1.9
+2018,apparel,8.2,0.08,0.3
+2018,apparel less footwear,9.72,0.1,0.1
+2018,bakery products4,9.25,0.09,1.3
+2018,bakery products5,10.0,0.1,1.8
+2018,beverage materials including coffee and tea5,10.0,0.1,1.2
+2018,beverage materials including coffee and tea6,3.7,0.04,-0.9
+2018,boys and girls footwear,8.5,0.08,0.9
+2018,breakfast sausage and related products67,3.8,0.04,2.8
+2018,candy and chewing gum45,5.25,0.05,4.8
+2018,canned fruits and vegetables5,5.8,0.06,-2.4
+2018,canned fruits and vegetables6,9.6,0.1,3.9
+2018,canned vegetables56,4.9,0.05,-0.6
+2018,carbonated drinks,2.88,0.03,2.1
+2018,cereals and bakery products,5.18,0.05,1.7
+2018,cereals and cereal products,5.81,0.06,0.6
+2018,citrus fruits5,5.94,0.06,5.4
+2018,clocks lamps and decorator items5,2.6,0.03,1.2
+2018,cosmetics perfume bath nail preparations and implements5,4.9,0.05,-1.8
+2018,dairy and related products,8.65,0.09,1.3
+2018,dishes and flatware45,9.09,0.09,-8.4
+2018,dishes and flatware56,15.76,0.16,-8
+2018,distilled spirits excluding whiskey at home6,1.9,0.02,-0.4
+2018,dried beans peas and lentils456,5.8,0.06,4.6
+2018,electricity,6.13,0.06,4.9
+2018,eyeglasses and eye care49,2.62,0.03,4.3
+2018,eyeglasses and eye care510,2.62,0.03,1.3
+2018,fats and oils,3.38,0.03,2.4
+2018,fish and seafood,7.75,0.08,-2.3
+2018,floor coverings45,4.55,0.05,-4.6
+2018,flour and prepared flour mixes,7.88,0.08,-0.2
+2018,food at elementary and secondary schools486,6.4,0.06,-43.5
+2018,footwear,15.31,0.15,1.0
+2018,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2018,fresh fish and seafood45,4.43,0.04,-0.8
+2018,fresh fruits,7.09,0.07,3.6
+2018,fresh vegetables,10.28,0.1,0.8
+2018,frozen and freeze dried prepared foods,10.18,0.1,-0.4
+2018,frozen and freeze dried prepared foods4,10.71,0.11,-1.0
+2018,frozen and freeze dried prepared foods5,11.2,0.11,0.9
+2018,frozen fish and seafood6,6.0,0.06,4.3
+2018,frozen fish and seafood7,7.29,0.07,1.5
+2018,frozen fruits and vegetables5,9.7,0.1,-1.6
+2018,frozen fruits and vegetables6,3.2,0.03,-0.2
+2018,frozen noncarbonated juices and drinks45,8.97,0.09,13.3
+2018,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2018,frozen vegetables6,12.5,0.12,-1.2
+2018,fruits and vegetables,5.44,0.05,1.7
+2018,fuel oil and other fuels,2.8,0.03,-7.0
+2018,furniture and bedding,5.18,0.05,1.6
+2018,gasoline all types,3.3,0.03,-10.3
+2018,hair dental shaving and miscellaneous personal care products45,6.28,0.06,6.0
+2018,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2018,ham,14.1,0.14,-1.9
+2018,household cleaning products45,2.28,0.02,0.9
+2018,household cleaning products5,4.5,0.04,1.8
+2018,household furnishings and operations,26.0,0.26,-0.6
+2018,household furnishings and supplies11,5.0,0.05,0.6
+2018,household furnishings and supplies12,5.3,0.05,0.4
+2018,household paper products45,4.35,0.04,-0.1
+2018,household paper products56,2.93,0.03,5.6
+2018,ice cream and related products,19.0,0.19,1.4
+2018,indoor plants and flowers12,6.85,0.07,1.4
+2018,indoor plants and flowers13,17.0,0.17,-0.6
+2018,infants and toddlers apparel,14.97,0.15,-4.0
+2018,intracity transportation4,2.0,0.02,1.1
+2018,intracity transportation5,2.0,0.02,2.6
+2018,jewelry and watches10,7.38,0.07,-2.1
+2018,jewelry and watches9,5.25,0.05,-0.5
+2018,jewelry10,6.06,0.06,3.7
+2018,jewelry9,5.2,0.05,-0.6
+2018,juices and nonalcoholic drinks5,5.5,0.06,2.5
+2018,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2018,laundry equipment46,2.51,0.03,7.9
+2018,meats poultry fish and eggs,8.75,0.09,1.0
+2018,medicinal drugs11,6.3,0.06,1.1
+2018,medicinal drugs412,6.5,0.06,0.9
+2018,mens and boys apparel,10.07,0.1,-2.7
+2018,mens apparel,14.07,0.14,-4.1
+2018,mens footwear4,7.83,0.08,2.2
+2018,mens footwear5,8.93,0.09,-0.2
+2018,mens pants and shorts,11.73,0.12,-1.6
+2018,mens shirts and sweaters5,6.13,0.06,6.1
+2018,mens shirts and sweaters6,11.18,0.11,-2.8
+2018,mens suits sport coats and outerwear,13.4,0.13,-9.8
+2018,mens underwear nightwear swimwear and accessories,7.5,0.08,1.6
+2018,mens underwear nightwear swimwear and accessories4,4.43,0.04,5.2
+2018,motor vehicle body work4,2.5,0.02,0.7
+2018,motor vehicle parts and equipment4,2.75,0.03,2.9
+2018,motor vehicle parts and equipment5,3.21,0.03,1.7
+2018,music instruments and accessories45,3.87,0.04,-0.1
+2018,music instruments and accessories56,3.58,0.04,2.7
+2018,nonalcoholic beverages and beverage materials,4.6,0.05,1.9
+2018,nonelectric cookware and tableware45,5.12,0.05,0.9
+2018,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2018,nonprescription drugs412,5.1,0.05,1.6
+2018,nonprescription drugs512,6.15,0.06,0.5
+2018,oranges including tangerines6,2.7,0.03,12.4
+2018,other bakery products,6.75,0.07,3.4
+2018,other beverage materials including tea45,3.0,0.03,3.9
+2018,other beverage materials including tea56,12.1,0.12,0.6
+2018,other condiments6,6.77,0.07,5.2
+2018,other dairy and related products45,13.33,0.13,-0.1
+2018,other dairy and related products5,13.75,0.14,2.0
+2018,other dairy and related products56,7.6,0.08,-0.8
+2018,other foods,1.4,0.01,2.6
+2018,other fresh fruits5,4.5,0.04,3.2
+2018,other fresh vegetables,13.66,0.14,2.6
+2018,other furniture45,3.5,0.04,1.8
+2018,other household equipment and furnishings5,3.44,0.03,-1.0
+2018,other intercity transportation,8.25,0.08,-5.7
+2018,other linens45,10.69,0.11,3.9
+2018,other linens5,8.8,0.09,-3.6
+2018,other linens56,4.5,0.04,-6.2
+2018,other pork including roasts and picnics5,5.33,0.05,5.4
+2018,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2018,other processed fruits and vegetables including dried5,6.48,0.06,0.4
+2018,other processed fruits and vegetables including dried6,2.9,0.03,-0.4
+2018,other recreational goods6,3.5,0.04,-4.3
+2018,outdoor equipment and supplies45,2.4,0.02,-2.2
+2018,peanut butter567,43.9,0.44,-7.5
+2018,photographers and film processing45,6.8,0.07,-1.4
+2018,photographic equipment and supplies,1.68,0.02,-0.9
+2018,photographic equipment56,3.4,0.03,-1.8
+2018,postage,4.7,0.05,16.1
+2018,potatoes,9.25,0.09,-0.9
+2018,prescription drugs11,3.7,0.04,0.8
+2018,prescription drugs4,6.0,0.06,0.4
+2018,processed fish and seafood5,17.0,0.17,-1.9
+2018,processed fish and seafood6,5.75,0.06,-1.9
+2018,processed fruits and vegetables5,9.09,0.09,-0.5
+2018,processed fruits and vegetables6,16.05,0.16,1.5
+2018,recreation commodities11,5.0,0.05,-2.3
+2018,rice pasta cornmeal5,3.0,0.03,2.7
+2018,salt and other seasonings and spices67,6.5,0.06,-0.2
+2018,sewing machines fabric and supplies45,9.14,0.09,-4.8
+2018,sewing machines fabric and supplies56,8.14,0.08,5.5
+2018,soups,3.2,0.03,1.4
+2018,spices seasonings condiments sauces,3.77,0.04,1.6
+2018,sports equipment,5.7,0.06,-1.4
+2018,sports equipment4,4.0,0.04,-2.4
+2018,sugar and artificial sweeteners,5.42,0.05,-4.2
+2018,sugar and sugar substitutes,7.84,0.08,1.7
+2018,sugar and sweets4,6.0,0.06,3.9
+2018,sugar and sweets5,6.43,0.06,4.4
+2018,televisions,1.84,0.02,-1.5
+2018,tobacco and smoking products,350.0,3.5,4.3
+2018,tobacco products other than cigarettes45,350.0,3.5,4.5
+2018,tobacco products other than cigarettes56,350.0,3.5,2.7
+2018,tomatoes,9.3,0.09,3.9
+2018,tomatoes4,11.6,0.12,-4.3
+2018,tools hardware and supplies56,9.0,0.09,2
+2018,toys,4.3,0.04,-2.8
+2018,transportation commodities less motor fuel11,25.0,0.25,-0.8
+2018,transportation services,5.3,0.05,7.9
+2018,uncooked beef steaks6,6.4,0.06,2.5
+2018,uncooked ground beef4,4.0,0.04,2.3
+2018,uncooked ground beef5,4.5,0.04,4.7
+2018,used cars and trucks,2.5,0.02,-2.2
+2018,vehicle parts and equipment other than tires46,3.38,0.03,8.7
+2018,vehicle parts and equipment other than tires57,4.0,0.04,2.4
+2018,watches49,9.0,0.09,7.4
+2018,window and floor coverings and other linens45,9.3,0.09,6.8
+2018,window and floor coverings and other linens5,8.85,0.09,-3.4
+2018,womens and girls apparel,9.76,0.1,-0.1
+2018,womens apparel,11.66,0.12,-0.1
+2018,womens dresses,11.96,0.12,-4.3
+2018,womens footwear,10.0,0.1,1.1
+2018,womens outerwear,5.21,0.05,-4.4
+2018,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2018,womens underwear nightwear swimwear and accessories5,10.02,0.1,0.6
+2018,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
+2019,dairy and related products,11.97,0.12,1.3
+2019,electricity,3.6,0.04,4.9
+2019,energy commodities,5.04,0.04,-10.1
+2019,motor fuel,2.66,0.02,-10.4
+2019,alcoholic beverages,5.5,0.05,1.9
+2019,apparel,8.2,0.08,0.3
+2019,apparel less footwear,9.72,0.09,0.1
+2019,bakery products4,9.4,0.09,1.3
+2019,bakery products5,10.0,0.1,1.8
+2019,beverage materials including coffee and tea5,10.0,0.1,1.2
+2019,beverage materials including coffee and tea6,3.7,0.03,-0.9
+2019,boys and girls footwear,7.57,0.07,0.9
+2019,breakfast sausage and related products67,3.8,0.04,2.8
+2019,candy and chewing gum45,5.43,0.05,4.8
+2019,canned fruits and vegetables5,5.8,0.06,-2.4
+2019,canned fruits and vegetables6,9.6,0.09,3.9
+2019,canned vegetables56,4.9,0.05,-0.6
+2019,carbonated drinks,2.88,0.02,2.1
+2019,cereals and bakery products,5.18,0.05,1.7
+2019,cereals and cereal products,5.81,0.05,0.6
+2019,citrus fruits5,6.3,0.06,5.4
+2019,clocks lamps and decorator items5,2.6,0.02,1.2
+2019,cosmetics perfume bath nail preparations and implements5,4.9,0.04,-1.8
+2019,dairy and related products,8.65,0.08,1.3
+2019,dishes and flatware45,9.09,0.09,-8.4
+2019,dishes and flatware56,15.76,0.16,-8
+2019,distilled spirits excluding whiskey at home6,1.9,0.01,-0.4
+2019,dried beans peas and lentils456,5.8,0.05,4.6
+2019,electricity,6.13,0.06,4.9
+2019,eyeglasses and eye care49,2.62,0.02,4.3
+2019,eyeglasses and eye care510,2.62,0.02,1.3
+2019,fats and oils,3.22,0.03,2.4
+2019,fish and seafood,7.75,0.08,-2.3
+2019,floor coverings45,4.5,0.04,-4.6
+2019,flour and prepared flour mixes,7.88,0.07,-0.2
+2019,food at elementary and secondary schools486,6.4,0.06,-43.5
+2019,footwear,14.67,0.14,1.0
+2019,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2019,fresh fish and seafood45,4.43,0.04,-0.8
+2019,fresh fruits,7.09,0.07,3.6
+2019,fresh vegetables,10.28,0.1,0.8
+2019,frozen and freeze dried prepared foods,10.18,0.1,-0.4
+2019,frozen and freeze dried prepared foods4,10.71,0.1,-1.0
+2019,frozen and freeze dried prepared foods5,11.95,0.12,0.9
+2019,frozen fish and seafood6,6.0,0.06,4.3
+2019,frozen fish and seafood7,8.25,0.08,1.5
+2019,frozen fruits and vegetables5,9.7,0.09,-1.6
+2019,frozen fruits and vegetables6,3.2,0.03,-0.2
+2019,frozen noncarbonated juices and drinks45,8.97,0.09,13.3
+2019,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2019,frozen vegetables6,12.5,0.12,-1.2
+2019,fruits and vegetables,5.44,0.05,1.7
+2019,fuel oil and other fuels,2.8,0.02,-7.0
+2019,furniture and bedding,5.18,0.05,1.6
+2019,gasoline all types,3.3,0.03,-10.3
+2019,hair dental shaving and miscellaneous personal care products45,6.28,0.06,6.0
+2019,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2019,ham,14.1,0.14,-1.9
+2019,household cleaning products45,2.78,0.03,0.9
+2019,household cleaning products5,4.5,0.04,1.8
+2019,household furnishings and operations,26.0,0.26,-0.6
+2019,household furnishings and supplies11,5.0,0.05,0.6
+2019,household furnishings and supplies12,5.3,0.05,0.4
+2019,household paper products45,4.07,0.04,-0.1
+2019,household paper products56,2.93,0.03,5.6
+2019,ice cream and related products,19.0,0.19,1.4
+2019,indoor plants and flowers12,6.85,0.06,1.4
+2019,indoor plants and flowers13,17.0,0.17,-0.6
+2019,infants and toddlers apparel,14.97,0.15,-4.0
+2019,intracity transportation4,2.0,0.02,1.1
+2019,intracity transportation5,2.0,0.02,2.6
+2019,jewelry and watches10,7.01,0.07,-2.1
+2019,jewelry and watches9,5.22,0.05,-0.5
+2019,jewelry10,6.06,0.06,3.7
+2019,jewelry9,5.2,0.05,-0.6
+2019,juices and nonalcoholic drinks5,5.5,0.05,2.5
+2019,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2019,laundry equipment46,2.67,0.02,7.9
+2019,meats poultry fish and eggs,8.75,0.08,1.0
+2019,medicinal drugs11,6.33,0.06,1.1
+2019,medicinal drugs412,6.5,0.06,0.9
+2019,mens and boys apparel,10.07,0.1,-2.7
+2019,mens apparel,14.07,0.14,-4.1
+2019,mens footwear4,9.6,0.09,2.2
+2019,mens footwear5,7.82,0.07,-0.2
+2019,mens pants and shorts,11.73,0.11,-1.6
+2019,mens shirts and sweaters5,6.13,0.06,6.1
+2019,mens shirts and sweaters6,11.18,0.11,-2.8
+2019,mens suits sport coats and outerwear,13.4,0.13,-9.8
+2019,mens underwear nightwear swimwear and accessories,7.5,0.07,1.6
+2019,mens underwear nightwear swimwear and accessories4,4.43,0.04,5.2
+2019,motor vehicle body work4,2.5,0.02,0.7
+2019,motor vehicle parts and equipment4,2.75,0.02,2.9
+2019,motor vehicle parts and equipment5,3.35,0.03,1.7
+2019,music instruments and accessories45,4.0,0.03,-0.1
+2019,music instruments and accessories56,3.58,0.03,2.7
+2019,nonalcoholic beverages and beverage materials,4.6,0.04,1.9
+2019,nonelectric cookware and tableware45,5.12,0.04,0.9
+2019,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2019,nonprescription drugs412,5.1,0.04,1.6
+2019,nonprescription drugs512,4.73,0.04,0.5
+2019,oranges including tangerines6,2.7,0.02,12.4
+2019,other bakery products,6.75,0.06,3.4
+2019,other beverage materials including tea45,3.0,0.03,3.9
+2019,other beverage materials including tea56,12.1,0.12,0.6
+2019,other condiments6,6.77,0.06,5.2
+2019,other dairy and related products45,13.33,0.13,-0.1
+2019,other dairy and related products5,13.75,0.14,2.0
+2019,other dairy and related products56,7.6,0.07,-0.8
+2019,other foods,1.4,0.01,2.6
+2019,other fresh fruits5,4.5,0.04,3.2
+2019,other fresh vegetables,13.66,0.13,2.6
+2019,other furniture45,3.5,0.03,1.8
+2019,other household equipment and furnishings5,3.44,0.03,-1.0
+2019,other intercity transportation,8.25,0.08,-5.7
+2019,other linens45,10.69,0.1,3.9
+2019,other linens5,8.8,0.08,-3.6
+2019,other linens56,4.5,0.04,-6.2
+2019,other pork including roasts and picnics5,5.33,0.05,5.4
+2019,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2019,other processed fruits and vegetables including dried5,8.03,0.08,0.4
+2019,other processed fruits and vegetables including dried6,2.9,0.02,-0.4
+2019,other recreational goods6,3.5,0.03,-4.3
+2019,outdoor equipment and supplies45,2.4,0.02,-2.2
+2019,peanut butter567,43.9,0.43,-7.5
+2019,photographers and film processing45,6.8,0.06,-1.4
+2019,photographic equipment and supplies,1.95,0.02,-0.9
+2019,photographic equipment56,3.4,0.03,-1.8
+2019,postage,4.7,0.04,16.1
+2019,potatoes,9.25,0.09,-0.9
+2019,prescription drugs11,3.7,0.03,0.8
+2019,prescription drugs4,6.0,0.06,0.4
+2019,processed fish and seafood5,17.0,0.17,-1.9
+2019,processed fish and seafood6,5.75,0.06,-1.9
+2019,processed fruits and vegetables5,9.69,0.09,-0.5
+2019,processed fruits and vegetables6,16.05,0.16,1.5
+2019,recreation commodities11,5.0,0.05,-2.3
+2019,rice pasta cornmeal5,3.0,0.03,2.7
+2019,salt and other seasonings and spices67,6.5,0.06,-0.2
+2019,sewing machines fabric and supplies45,9.17,0.09,-4.8
+2019,sewing machines fabric and supplies56,8.04,0.08,5.5
+2019,soups,3.2,0.03,1.4
+2019,spices seasonings condiments sauces,3.77,0.03,1.6
+2019,sports equipment,5.7,0.05,-1.4
+2019,sports equipment4,4.0,0.04,-2.4
+2019,sugar and artificial sweeteners,5.42,0.05,-4.2
+2019,sugar and sugar substitutes,7.84,0.08,1.7
+2019,sugar and sweets4,6.0,0.06,3.9
+2019,sugar and sweets5,6.43,0.06,4.4
+2019,televisions,2.13,0.02,-1.5
+2019,tobacco and smoking products,350.0,3.5,4.3
+2019,tobacco products other than cigarettes45,350.0,3.5,4.5
+2019,tobacco products other than cigarettes56,350.0,3.5,2.7
+2019,tomatoes,9.3,0.09,3.9
+2019,tomatoes4,11.6,0.11,-4.3
+2019,tools hardware and supplies56,9.0,0.09,2
+2019,toys,4.3,0.04,-2.8
+2019,transportation commodities less motor fuel11,24.63,0.24,-0.8
+2019,transportation services,5.3,0.05,7.9
+2019,uncooked beef steaks6,6.4,0.06,2.5
+2019,uncooked ground beef4,4.0,0.04,2.3
+2019,uncooked ground beef5,4.5,0.04,4.7
+2019,used cars and trucks,2.5,0.02,-2.2
+2019,vehicle parts and equipment other than tires46,3.82,0.04,8.7
+2019,vehicle parts and equipment other than tires57,4.0,0.04,2.4
+2019,watches49,9.0,0.09,7.4
+2019,window and floor coverings and other linens45,9.3,0.09,6.8
+2019,window and floor coverings and other linens5,8.85,0.08,-3.4
+2019,womens and girls apparel,9.76,0.09,-0.1
+2019,womens apparel,11.61,0.11,-0.1
+2019,womens dresses,11.36,0.11,-4.3
+2019,womens footwear,8.44,0.08,1.1
+2019,womens outerwear,5.21,0.05,-4.4
+2019,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2019,womens underwear nightwear swimwear and accessories5,10.02,0.1,0.6
+2019,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
+2020,dairy and related products,11.97,0.12,1.3
+2020,electricity,5.0,0.05,4.9
+2020,energy commodities,4.88,0.04,-10.1
+2020,motor fuel,2.79,0.02,-10.4
+2020,alcoholic beverages,5.5,0.05,1.9
+2020,apparel,8.55,0.08,0.3
+2020,apparel less footwear,9.72,0.09,0.1
+2020,bakery products4,9.25,0.09,1.3
+2020,bakery products5,10.0,0.1,1.8
+2020,beverage materials including coffee and tea5,10.0,0.1,1.2
+2020,beverage materials including coffee and tea6,3.7,0.03,-0.9
+2020,boys and girls footwear,7.94,0.07,0.9
+2020,breakfast sausage and related products67,3.8,0.04,2.8
+2020,candy and chewing gum45,5.36,0.05,4.8
+2020,canned fruits and vegetables5,5.84,0.06,-2.4
+2020,canned fruits and vegetables6,9.6,0.09,3.9
+2020,canned vegetables56,5.39,0.05,-0.6
+2020,carbonated drinks,2.88,0.02,2.1
+2020,cereals and bakery products,6.53,0.06,1.7
+2020,cereals and cereal products,6.2,0.06,0.6
+2020,citrus fruits5,6.51,0.06,5.4
+2020,clocks lamps and decorator items5,2.6,0.02,1.2
+2020,cosmetics perfume bath nail preparations and implements5,4.75,0.04,-1.8
+2020,dairy and related products,8.65,0.08,1.3
+2020,dishes and flatware45,7.87,0.08,-8.4
+2020,dishes and flatware56,14.9,0.15,-8
+2020,distilled spirits excluding whiskey at home6,1.9,0.01,-0.4
+2020,dried beans peas and lentils456,5.8,0.05,4.6
+2020,electricity,5.48,0.05,4.9
+2020,eyeglasses and eye care49,2.56,0.02,4.3
+2020,eyeglasses and eye care510,2.56,0.02,1.3
+2020,fats and oils,3.29,0.03,2.4
+2020,fish and seafood,7.56,0.07,-2.3
+2020,floor coverings45,4.52,0.04,-4.6
+2020,flour and prepared flour mixes,8.56,0.08,-0.2
+2020,food at elementary and secondary schools486,6.4,0.06,-43.5
+2020,footwear,14.95,0.15,1.0
+2020,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2020,fresh fish and seafood45,4.59,0.05,-0.8
+2020,fresh fruits,6.75,0.07,3.6
+2020,fresh vegetables,9.8,0.09,0.8
+2020,frozen and freeze dried prepared foods,10.02,0.1,-0.4
+2020,frozen and freeze dried prepared foods4,10.59,0.1,-1.0
+2020,frozen and freeze dried prepared foods5,11.7,0.11,0.9
+2020,frozen fish and seafood6,6.0,0.06,4.3
+2020,frozen fish and seafood7,8.25,0.08,1.5
+2020,frozen fruits and vegetables5,9.38,0.09,-1.6
+2020,frozen fruits and vegetables6,3.2,0.03,-0.2
+2020,frozen noncarbonated juices and drinks45,8.69,0.08,13.3
+2020,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2020,frozen vegetables6,12.74,0.12,-1.2
+2020,fruits and vegetables,6.0,0.06,1.7
+2020,fuel oil and other fuels,2.95,0.02,-7.0
+2020,furniture and bedding,5.2,0.05,1.6
+2020,gasoline all types,3.3,0.03,-10.3
+2020,hair dental shaving and miscellaneous personal care products45,6.49,0.06,6.0
+2020,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2020,ham,14.1,0.14,-1.9
+2020,household cleaning products45,3.34,0.03,0.9
+2020,household cleaning products5,4.5,0.04,1.8
+2020,household furnishings and operations,26.0,0.26,-0.6
+2020,household furnishings and supplies11,5.0,0.05,0.6
+2020,household furnishings and supplies12,5.3,0.05,0.4
+2020,household paper products45,4.18,0.04,-0.1
+2020,household paper products56,2.93,0.03,5.6
+2020,ice cream and related products,19.0,0.19,1.4
+2020,indoor plants and flowers12,6.85,0.06,1.4
+2020,indoor plants and flowers13,17.0,0.17,-0.6
+2020,infants and toddlers apparel,14.97,0.15,-4.0
+2020,intracity transportation4,2.0,0.02,1.1
+2020,intracity transportation5,2.0,0.02,2.6
+2020,jewelry and watches10,7.26,0.07,-2.1
+2020,jewelry and watches9,5.23,0.05,-0.5
+2020,jewelry10,6.08,0.06,3.7
+2020,jewelry9,5.2,0.05,-0.6
+2020,juices and nonalcoholic drinks5,5.5,0.05,2.5
+2020,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2020,laundry equipment46,2.65,0.02,7.9
+2020,meats poultry fish and eggs,8.75,0.08,1.0
+2020,medicinal drugs11,6.3,0.06,1.1
+2020,medicinal drugs412,6.5,0.06,0.9
+2020,mens and boys apparel,10.07,0.1,-2.7
+2020,mens apparel,14.07,0.14,-4.1
+2020,mens footwear4,8.84,0.09,2.2
+2020,mens footwear5,8.25,0.08,-0.2
+2020,mens pants and shorts,11.73,0.11,-1.6
+2020,mens shirts and sweaters5,6.13,0.06,6.1
+2020,mens shirts and sweaters6,11.18,0.11,-2.8
+2020,mens suits sport coats and outerwear,13.4,0.13,-9.8
+2020,mens underwear nightwear swimwear and accessories,7.5,0.07,1.6
+2020,mens underwear nightwear swimwear and accessories4,4.5,0.04,5.2
+2020,motor vehicle body work4,2.5,0.02,0.7
+2020,motor vehicle parts and equipment4,2.7,0.02,2.9
+2020,motor vehicle parts and equipment5,3.67,0.03,1.7
+2020,music instruments and accessories45,4.3,0.04,-0.1
+2020,music instruments and accessories56,3.75,0.03,2.7
+2020,nonalcoholic beverages and beverage materials,4.6,0.04,1.9
+2020,nonelectric cookware and tableware45,5.29,0.05,0.9
+2020,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2020,nonprescription drugs412,5.1,0.04,1.6
+2020,nonprescription drugs512,5.3,0.05,0.5
+2020,oranges including tangerines6,2.7,0.02,12.4
+2020,other bakery products,6.75,0.06,3.4
+2020,other beverage materials including tea45,3.0,0.03,3.9
+2020,other beverage materials including tea56,12.1,0.12,0.6
+2020,other condiments6,6.95,0.06,5.2
+2020,other dairy and related products45,13.33,0.13,-0.1
+2020,other dairy and related products5,13.75,0.14,2.0
+2020,other dairy and related products56,8.2,0.08,-0.8
+2020,other foods,1.4,0.01,2.6
+2020,other fresh fruits5,4.5,0.04,3.2
+2020,other fresh vegetables,14.33,0.14,2.6
+2020,other furniture45,3.5,0.03,1.8
+2020,other household equipment and furnishings5,3.58,0.03,-1.0
+2020,other intercity transportation,8.25,0.08,-5.7
+2020,other linens45,10.69,0.1,3.9
+2020,other linens5,8.8,0.08,-3.6
+2020,other linens56,4.5,0.04,-6.2
+2020,other pork including roasts and picnics5,5.33,0.05,5.4
+2020,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2020,other processed fruits and vegetables including dried5,8.07,0.08,0.4
+2020,other processed fruits and vegetables including dried6,2.9,0.02,-0.4
+2020,other recreational goods6,3.5,0.03,-4.3
+2020,outdoor equipment and supplies45,2.4,0.02,-2.2
+2020,peanut butter567,43.9,0.43,-7.5
+2020,photographers and film processing45,6.8,0.06,-1.4
+2020,photographic equipment and supplies,3.02,0.02,-0.9
+2020,photographic equipment56,3.4,0.03,-1.8
+2020,postage,4.7,0.04,16.1
+2020,potatoes,9.25,0.09,-0.9
+2020,prescription drugs11,3.7,0.03,0.8
+2020,prescription drugs4,6.0,0.06,0.4
+2020,processed fish and seafood5,17.0,0.17,-1.9
+2020,processed fish and seafood6,5.67,0.06,-1.9
+2020,processed fruits and vegetables5,9.65,0.09,-0.5
+2020,processed fruits and vegetables6,16.05,0.16,1.5
+2020,recreation commodities11,5.0,0.05,-2.3
+2020,rice pasta cornmeal5,3.0,0.03,2.7
+2020,salt and other seasonings and spices67,6.5,0.06,-0.2
+2020,sewing machines fabric and supplies45,9.07,0.09,-4.8
+2020,sewing machines fabric and supplies56,8.09,0.08,5.5
+2020,soups,3.2,0.03,1.4
+2020,spices seasonings condiments sauces,4.7,0.04,1.6
+2020,sports equipment,5.74,0.05,-1.4
+2020,sports equipment4,4.0,0.04,-2.4
+2020,sugar and artificial sweeteners,5.49,0.05,-4.2
+2020,sugar and sugar substitutes,7.55,0.07,1.7
+2020,sugar and sweets4,6.0,0.06,3.9
+2020,sugar and sweets5,6.23,0.06,4.4
+2020,televisions,5.0,0.05,-1.5
+2020,tobacco and smoking products,350.0,3.5,4.3
+2020,tobacco products other than cigarettes45,350.0,3.5,4.5
+2020,tobacco products other than cigarettes56,350.0,3.5,2.7
+2020,tomatoes,9.76,0.09,3.9
+2020,tomatoes4,11.6,0.11,-4.3
+2020,tools hardware and supplies56,9.0,0.09,2
+2020,toys,4.3,0.04,-2.8
+2020,transportation commodities less motor fuel11,24.78,0.25,-0.8
+2020,transportation services,5.3,0.05,7.9
+2020,uncooked beef steaks6,5.6,0.05,2.5
+2020,uncooked ground beef4,4.0,0.04,2.3
+2020,uncooked ground beef5,4.5,0.04,4.7
+2020,used cars and trucks,2.5,0.02,-2.2
+2020,vehicle parts and equipment other than tires46,4.71,0.04,8.7
+2020,vehicle parts and equipment other than tires57,3.75,0.03,2.4
+2020,watches49,9.0,0.09,7.4
+2020,window and floor coverings and other linens45,9.3,0.09,6.8
+2020,window and floor coverings and other linens5,8.85,0.08,-3.4
+2020,womens and girls apparel,10.23,0.1,-0.1
+2020,womens apparel,11.63,0.11,-0.1
+2020,womens dresses,11.74,0.11,-4.3
+2020,womens footwear,8.57,0.08,1.1
+2020,womens outerwear,5.21,0.05,-4.4
+2020,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2020,womens underwear nightwear swimwear and accessories5,10.02,0.1,0.6
+2020,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
+2021,dairy and related products,12.02,0.12,1.3
+2021,electricity,5.0,0.05,4.9
+2021,energy commodities,4.88,0.05,-10.1
+2021,motor fuel,2.87,0.03,-10.4
+2021,alcoholic beverages,5.5,0.06,1.9
+2021,apparel,8.55,0.09,0.3
+2021,apparel less footwear,9.72,0.1,0.1
+2021,bakery products4,9.25,0.09,1.3
+2021,bakery products5,10.0,0.1,1.8
+2021,beverage materials including coffee and tea5,10.0,0.1,1.2
+2021,beverage materials including coffee and tea6,3.7,0.04,-0.9
+2021,boys and girls footwear,8.5,0.08,0.9
+2021,breakfast sausage and related products67,3.8,0.04,2.8
+2021,candy and chewing gum45,5.25,0.05,4.8
+2021,canned fruits and vegetables5,5.8,0.06,-2.4
+2021,canned fruits and vegetables6,9.6,0.1,3.9
+2021,canned vegetables56,4.9,0.05,-0.6
+2021,carbonated drinks,2.88,0.03,2.1
+2021,cereals and bakery products,6.53,0.07,1.7
+2021,cereals and cereal products,6.2,0.06,0.6
+2021,citrus fruits5,6.3,0.06,5.4
+2021,clocks lamps and decorator items5,2.6,0.03,1.2
+2021,cosmetics perfume bath nail preparations and implements5,4.75,0.05,-1.8
+2021,dairy and related products,8.65,0.09,1.3
+2021,dishes and flatware45,9.09,0.09,-8.4
+2021,dishes and flatware56,15.76,0.16,-8
+2021,distilled spirits excluding whiskey at home6,1.9,0.02,-0.4
+2021,dried beans peas and lentils456,5.8,0.06,4.6
+2021,electricity,6.13,0.06,4.9
+2021,eyeglasses and eye care49,2.62,0.03,4.3
+2021,eyeglasses and eye care510,2.62,0.03,1.3
+2021,fats and oils,3.38,0.03,2.4
+2021,fish and seafood,7.75,0.08,-2.3
+2021,floor coverings45,4.55,0.05,-4.6
+2021,flour and prepared flour mixes,7.88,0.08,-0.2
+2021,food at elementary and secondary schools486,6.4,0.06,-43.5
+2021,footwear,15.57,0.16,1.0
+2021,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2021,fresh fish and seafood45,4.5,0.05,-0.8
+2021,fresh fruits,7.09,0.07,3.6
+2021,fresh vegetables,10.05,0.1,0.8
+2021,frozen and freeze dried prepared foods,10.94,0.11,-0.4
+2021,frozen and freeze dried prepared foods4,10.71,0.11,-1.0
+2021,frozen and freeze dried prepared foods5,11.2,0.11,0.9
+2021,frozen fish and seafood6,6.0,0.06,4.3
+2021,frozen fish and seafood7,8.25,0.08,1.5
+2021,frozen fruits and vegetables5,9.7,0.1,-1.6
+2021,frozen fruits and vegetables6,3.2,0.03,-0.2
+2021,frozen noncarbonated juices and drinks45,8.97,0.09,13.3
+2021,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2021,frozen vegetables6,13.1,0.13,-1.2
+2021,fruits and vegetables,6.0,0.06,1.7
+2021,fuel oil and other fuels,2.95,0.03,-7.0
+2021,furniture and bedding,5.37,0.05,1.6
+2021,gasoline all types,3.3,0.03,-10.3
+2021,hair dental shaving and miscellaneous personal care products45,6.28,0.06,6.0
+2021,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2021,ham,14.1,0.14,-1.9
+2021,household cleaning products45,3.5,0.04,0.9
+2021,household cleaning products5,4.5,0.04,1.8
+2021,household furnishings and operations,26.0,0.26,-0.6
+2021,household furnishings and supplies11,5.0,0.05,0.6
+2021,household furnishings and supplies12,5.3,0.05,0.4
+2021,household paper products45,4.35,0.04,-0.1
+2021,household paper products56,2.93,0.03,5.6
+2021,ice cream and related products,19.0,0.19,1.4
+2021,indoor plants and flowers12,6.85,0.07,1.4
+2021,indoor plants and flowers13,17.0,0.17,-0.6
+2021,infants and toddlers apparel,14.97,0.15,-4.0
+2021,intracity transportation4,2.0,0.02,1.1
+2021,intracity transportation5,2.0,0.02,2.6
+2021,jewelry and watches10,7.76,0.08,-2.1
+2021,jewelry and watches9,5.25,0.05,-0.5
+2021,jewelry10,6.06,0.06,3.7
+2021,jewelry9,5.2,0.05,-0.6
+2021,juices and nonalcoholic drinks5,5.5,0.06,2.5
+2021,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2021,laundry equipment46,5.9,0.06,7.9
+2021,meats poultry fish and eggs,8.75,0.09,1.0
+2021,medicinal drugs11,6.3,0.06,1.1
+2021,medicinal drugs412,6.5,0.06,0.9
+2021,mens and boys apparel,10.07,0.1,-2.7
+2021,mens apparel,14.07,0.14,-4.1
+2021,mens footwear4,7.83,0.08,2.2
+2021,mens footwear5,8.93,0.09,-0.2
+2021,mens pants and shorts,11.73,0.12,-1.6
+2021,mens shirts and sweaters5,6.13,0.06,6.1
+2021,mens shirts and sweaters6,11.18,0.11,-2.8
+2021,mens suits sport coats and outerwear,13.4,0.13,-9.8
+2021,mens underwear nightwear swimwear and accessories,7.5,0.08,1.6
+2021,mens underwear nightwear swimwear and accessories4,4.43,0.04,5.2
+2021,motor vehicle body work4,2.5,0.02,0.7
+2021,motor vehicle parts and equipment4,2.75,0.03,2.9
+2021,motor vehicle parts and equipment5,3.51,0.04,1.7
+2021,music instruments and accessories45,4.27,0.04,-0.1
+2021,music instruments and accessories56,3.58,0.04,2.7
+2021,nonalcoholic beverages and beverage materials,4.6,0.05,1.9
+2021,nonelectric cookware and tableware45,5.12,0.05,0.9
+2021,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2021,nonprescription drugs412,5.1,0.05,1.6
+2021,nonprescription drugs512,6.15,0.06,0.5
+2021,oranges including tangerines6,2.7,0.03,12.4
+2021,other bakery products,6.75,0.07,3.4
+2021,other beverage materials including tea45,3.0,0.03,3.9
+2021,other beverage materials including tea56,12.1,0.12,0.6
+2021,other condiments6,6.95,0.07,5.2
+2021,other dairy and related products45,13.33,0.13,-0.1
+2021,other dairy and related products5,13.75,0.14,2.0
+2021,other dairy and related products56,8.2,0.08,-0.8
+2021,other foods,1.4,0.01,2.6
+2021,other fresh fruits5,4.5,0.04,3.2
+2021,other fresh vegetables,14.33,0.14,2.6
+2021,other furniture45,3.5,0.04,1.8
+2021,other household equipment and furnishings5,3.54,0.04,-1.0
+2021,other intercity transportation,8.25,0.08,-5.7
+2021,other linens45,10.69,0.11,3.9
+2021,other linens5,8.8,0.09,-3.6
+2021,other linens56,4.5,0.04,-6.2
+2021,other pork including roasts and picnics5,5.33,0.05,5.4
+2021,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2021,other processed fruits and vegetables including dried5,8.03,0.08,0.4
+2021,other processed fruits and vegetables including dried6,2.9,0.03,-0.4
+2021,other recreational goods6,3.5,0.04,-4.3
+2021,outdoor equipment and supplies45,2.4,0.02,-2.2
+2021,peanut butter567,43.9,0.44,-7.5
+2021,photographers and film processing45,6.8,0.07,-1.4
+2021,photographic equipment and supplies,3.04,0.03,-0.9
+2021,photographic equipment56,3.4,0.03,-1.8
+2021,postage,4.7,0.05,16.1
+2021,potatoes,9.25,0.09,-0.9
+2021,prescription drugs11,3.7,0.04,0.8
+2021,prescription drugs4,6.0,0.06,0.4
+2021,processed fish and seafood5,17.0,0.17,-1.9
+2021,processed fish and seafood6,5.67,0.06,-1.9
+2021,processed fruits and vegetables5,9.69,0.1,-0.5
+2021,processed fruits and vegetables6,16.05,0.16,1.5
+2021,recreation commodities11,5.0,0.05,-2.3
+2021,rice pasta cornmeal5,3.0,0.03,2.7
+2021,salt and other seasonings and spices67,6.5,0.06,-0.2
+2021,sewing machines fabric and supplies45,9.14,0.09,-4.8
+2021,sewing machines fabric and supplies56,8.14,0.08,5.5
+2021,soups,3.2,0.03,1.4
+2021,spices seasonings condiments sauces,4.7,0.05,1.6
+2021,sports equipment,6.05,0.06,-1.4
+2021,sports equipment4,4.0,0.04,-2.4
+2021,sugar and artificial sweeteners,5.42,0.05,-4.2
+2021,sugar and sugar substitutes,7.84,0.08,1.7
+2021,sugar and sweets4,6.0,0.06,3.9
+2021,sugar and sweets5,6.43,0.06,4.4
+2021,televisions,5.0,0.05,-1.5
+2021,tobacco and smoking products,350.0,3.5,4.3
+2021,tobacco products other than cigarettes45,350.0,3.5,4.5
+2021,tobacco products other than cigarettes56,350.0,3.5,2.7
+2021,tomatoes,9.85,0.1,3.9
+2021,tomatoes4,11.6,0.12,-4.3
+2021,tools hardware and supplies56,9.0,0.09,2
+2021,toys,4.3,0.04,-2.8
+2021,transportation commodities less motor fuel11,25.0,0.25,-0.8
+2021,transportation services,5.3,0.05,7.9
+2021,uncooked beef steaks6,6.4,0.06,2.5
+2021,uncooked ground beef4,4.0,0.04,2.3
+2021,uncooked ground beef5,4.5,0.04,4.7
+2021,used cars and trucks,2.5,0.02,-2.2
+2021,vehicle parts and equipment other than tires46,4.62,0.05,8.7
+2021,vehicle parts and equipment other than tires57,4.0,0.04,2.4
+2021,watches49,9.0,0.09,7.4
+2021,window and floor coverings and other linens45,9.3,0.09,6.8
+2021,window and floor coverings and other linens5,8.85,0.09,-3.4
+2021,womens and girls apparel,10.23,0.1,-0.1
+2021,womens apparel,11.66,0.12,-0.1
+2021,womens dresses,12.18,0.12,-4.3
+2021,womens footwear,10.0,0.1,1.1
+2021,womens outerwear,5.21,0.05,-4.4
+2021,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2021,womens underwear nightwear swimwear and accessories5,10.02,0.1,0.6
+2021,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
+2022,dairy and related products,12.02,0.12,1.3
+2022,electricity,5.0,0.05,4.9
+2022,energy commodities,4.73,0.04,-10.1
+2022,motor fuel,2.87,0.03,-10.4
+2022,alcoholic beverages,5.5,0.05,1.9
+2022,apparel,8.55,0.08,0.3
+2022,apparel less footwear,9.72,0.09,0.1
+2022,bakery products4,9.25,0.09,1.3
+2022,bakery products5,10.0,0.1,1.8
+2022,beverage materials including coffee and tea5,10.0,0.1,1.2
+2022,beverage materials including coffee and tea6,3.7,0.03,-0.9
+2022,boys and girls footwear,8.5,0.08,0.9
+2022,breakfast sausage and related products67,3.8,0.04,2.8
+2022,candy and chewing gum45,5.25,0.05,4.8
+2022,canned fruits and vegetables5,5.8,0.06,-2.4
+2022,canned fruits and vegetables6,9.6,0.09,3.9
+2022,canned vegetables56,4.9,0.05,-0.6
+2022,carbonated drinks,2.88,0.02,2.1
+2022,cereals and bakery products,6.53,0.06,1.7
+2022,cereals and cereal products,6.2,0.06,0.6
+2022,citrus fruits5,6.3,0.06,5.4
+2022,clocks lamps and decorator items5,2.6,0.02,1.2
+2022,cosmetics perfume bath nail preparations and implements5,4.75,0.04,-1.8
+2022,dairy and related products,8.65,0.08,1.3
+2022,dishes and flatware45,8.5,0.08,-8.4
+2022,dishes and flatware56,15.76,0.16,-8
+2022,distilled spirits excluding whiskey at home6,1.9,0.01,-0.4
+2022,dried beans peas and lentils456,5.8,0.05,4.6
+2022,electricity,6.13,0.06,4.9
+2022,eyeglasses and eye care49,2.62,0.02,4.3
+2022,eyeglasses and eye care510,2.62,0.02,1.3
+2022,fats and oils,3.4,0.03,2.4
+2022,fish and seafood,7.75,0.08,-2.3
+2022,floor coverings45,4.55,0.04,-4.6
+2022,flour and prepared flour mixes,7.88,0.07,-0.2
+2022,food at elementary and secondary schools486,6.4,0.06,-43.5
+2022,footwear,15.57,0.15,1.0
+2022,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2022,fresh fish and seafood45,4.5,0.05,-0.8
+2022,fresh fruits,7.09,0.07,3.6
+2022,fresh vegetables,10.05,0.1,0.8
+2022,frozen and freeze dried prepared foods,10.94,0.1,-0.4
+2022,frozen and freeze dried prepared foods4,10.71,0.1,-1.0
+2022,frozen and freeze dried prepared foods5,11.2,0.11,0.9
+2022,frozen fish and seafood6,6.0,0.06,4.3
+2022,frozen fish and seafood7,8.25,0.08,1.5
+2022,frozen fruits and vegetables5,9.7,0.09,-1.6
+2022,frozen fruits and vegetables6,3.2,0.03,-0.2
+2022,frozen noncarbonated juices and drinks45,8.97,0.09,13.3
+2022,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2022,frozen vegetables6,13.1,0.12,-1.2
+2022,fruits and vegetables,6.0,0.06,1.7
+2022,fuel oil and other fuels,2.95,0.02,-7.0
+2022,furniture and bedding,5.49,0.05,1.6
+2022,gasoline all types,3.3,0.03,-10.3
+2022,hair dental shaving and miscellaneous personal care products45,6.28,0.06,6.0
+2022,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2022,ham,14.1,0.14,-1.9
+2022,household cleaning products45,3.5,0.03,0.9
+2022,household cleaning products5,4.5,0.04,1.8
+2022,household furnishings and operations,26.0,0.26,-0.6
+2022,household furnishings and supplies11,5.0,0.05,0.6
+2022,household furnishings and supplies12,5.3,0.05,0.4
+2022,household paper products45,4.35,0.04,-0.1
+2022,household paper products56,2.93,0.03,5.6
+2022,ice cream and related products,19.0,0.19,1.4
+2022,indoor plants and flowers12,6.85,0.06,1.4
+2022,indoor plants and flowers13,17.0,0.17,-0.6
+2022,infants and toddlers apparel,14.97,0.15,-4.0
+2022,intracity transportation4,2.0,0.02,1.1
+2022,intracity transportation5,2.0,0.02,2.6
+2022,jewelry and watches10,7.76,0.07,-2.1
+2022,jewelry and watches9,5.25,0.05,-0.5
+2022,jewelry10,6.06,0.06,3.7
+2022,jewelry9,5.2,0.05,-0.6
+2022,juices and nonalcoholic drinks5,5.5,0.05,2.5
+2022,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2022,laundry equipment46,8.09,0.08,7.9
+2022,meats poultry fish and eggs,8.75,0.08,1.0
+2022,medicinal drugs11,6.33,0.06,1.1
+2022,medicinal drugs412,6.5,0.06,0.9
+2022,mens and boys apparel,10.4,0.1,-2.7
+2022,mens apparel,13.62,0.13,-4.1
+2022,mens footwear4,7.83,0.08,2.2
+2022,mens footwear5,8.93,0.08,-0.2
+2022,mens pants and shorts,11.73,0.11,-1.6
+2022,mens shirts and sweaters5,6.13,0.06,6.1
+2022,mens shirts and sweaters6,10.66,0.1,-2.8
+2022,mens suits sport coats and outerwear,12.75,0.12,-9.8
+2022,mens underwear nightwear swimwear and accessories,7.5,0.07,1.6
+2022,mens underwear nightwear swimwear and accessories4,4.43,0.04,5.2
+2022,motor vehicle body work4,2.5,0.02,0.7
+2022,motor vehicle parts and equipment4,2.75,0.02,2.9
+2022,motor vehicle parts and equipment5,3.51,0.03,1.7
+2022,music instruments and accessories45,4.27,0.04,-0.1
+2022,music instruments and accessories56,3.76,0.03,2.7
+2022,nonalcoholic beverages and beverage materials,4.6,0.04,1.9
+2022,nonelectric cookware and tableware45,5.12,0.04,0.9
+2022,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2022,nonprescription drugs412,4.63,0.04,1.6
+2022,nonprescription drugs512,6.15,0.06,0.5
+2022,oranges including tangerines6,2.7,0.02,12.4
+2022,other bakery products,6.75,0.06,3.4
+2022,other beverage materials including tea45,3.0,0.03,3.9
+2022,other beverage materials including tea56,12.1,0.12,0.6
+2022,other condiments6,6.95,0.06,5.2
+2022,other dairy and related products45,13.33,0.13,-0.1
+2022,other dairy and related products5,13.75,0.14,2.0
+2022,other dairy and related products56,8.2,0.08,-0.8
+2022,other foods,1.4,0.01,2.6
+2022,other fresh fruits5,4.5,0.04,3.2
+2022,other fresh vegetables,14.33,0.14,2.6
+2022,other furniture45,3.5,0.03,1.8
+2022,other household equipment and furnishings5,3.48,0.03,-1.0
+2022,other intercity transportation,8.25,0.08,-5.7
+2022,other linens45,10.69,0.1,3.9
+2022,other linens5,8.8,0.08,-3.6
+2022,other linens56,4.5,0.04,-6.2
+2022,other pork including roasts and picnics5,5.33,0.05,5.4
+2022,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2022,other processed fruits and vegetables including dried5,8.03,0.08,0.4
+2022,other processed fruits and vegetables including dried6,2.9,0.02,-0.4
+2022,other recreational goods6,3.5,0.03,-4.3
+2022,outdoor equipment and supplies45,2.4,0.02,-2.2
+2022,peanut butter567,43.9,0.43,-7.5
+2022,photographers and film processing45,6.8,0.06,-1.4
+2022,photographic equipment and supplies,3.04,0.02,-0.9
+2022,photographic equipment56,3.4,0.03,-1.8
+2022,postage,4.7,0.04,16.1
+2022,potatoes,9.25,0.09,-0.9
+2022,prescription drugs11,3.7,0.03,0.8
+2022,prescription drugs4,6.0,0.06,0.4
+2022,processed fish and seafood5,17.0,0.17,-1.9
+2022,processed fish and seafood6,5.67,0.06,-1.9
+2022,processed fruits and vegetables5,9.69,0.09,-0.5
+2022,processed fruits and vegetables6,16.05,0.16,1.5
+2022,recreation commodities11,5.0,0.05,-2.3
+2022,rice pasta cornmeal5,3.0,0.03,2.7
+2022,salt and other seasonings and spices67,6.5,0.06,-0.2
+2022,sewing machines fabric and supplies45,8.94,0.09,-4.8
+2022,sewing machines fabric and supplies56,8.14,0.08,5.5
+2022,soups,3.2,0.03,1.4
+2022,spices seasonings condiments sauces,4.7,0.04,1.6
+2022,sports equipment,6.05,0.06,-1.4
+2022,sports equipment4,4.0,0.04,-2.4
+2022,sugar and artificial sweeteners,7.74,0.08,-4.2
+2022,sugar and sugar substitutes,7.84,0.08,1.7
+2022,sugar and sweets4,6.0,0.06,3.9
+2022,sugar and sweets5,6.43,0.06,4.4
+2022,televisions,5.0,0.05,-1.5
+2022,tobacco and smoking products,142.82,1.43,4.3
+2022,tobacco products other than cigarettes45,177.88,1.78,4.5
+2022,tobacco products other than cigarettes56,350.0,3.5,2.7
+2022,tomatoes,9.85,0.09,3.9
+2022,tomatoes4,11.6,0.11,-4.3
+2022,tools hardware and supplies56,9.0,0.09,2
+2022,toys,4.3,0.04,-2.8
+2022,transportation commodities less motor fuel11,25.0,0.25,-0.8
+2022,transportation services,5.3,0.05,7.9
+2022,uncooked beef steaks6,6.4,0.06,2.5
+2022,uncooked ground beef4,4.0,0.04,2.3
+2022,uncooked ground beef5,4.5,0.04,4.7
+2022,used cars and trucks,2.5,0.02,-2.2
+2022,vehicle parts and equipment other than tires46,4.62,0.04,8.7
+2022,vehicle parts and equipment other than tires57,4.0,0.04,2.4
+2022,watches49,9.0,0.09,7.4
+2022,window and floor coverings and other linens45,9.3,0.09,6.8
+2022,window and floor coverings and other linens5,8.85,0.08,-3.4
+2022,womens and girls apparel,10.23,0.1,-0.1
+2022,womens apparel,11.43,0.11,-0.1
+2022,womens dresses,12.18,0.12,-4.3
+2022,womens footwear,10.0,0.1,1.1
+2022,womens outerwear,5.21,0.05,-4.4
+2022,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2022,womens underwear nightwear swimwear and accessories5,10.02,0.1,0.6
+2022,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
+2023,dairy and related products,12.02,0.12,1.3
+2023,electricity,5.0,0.05,4.9
+2023,energy commodities,4.76,0.04,-10.1
+2023,motor fuel,2.87,0.03,-10.4
+2023,alcoholic beverages,5.5,0.05,1.9
+2023,apparel,8.55,0.08,0.3
+2023,apparel less footwear,9.72,0.09,0.1
+2023,bakery products4,9.25,0.09,1.3
+2023,bakery products5,10.0,0.1,1.8
+2023,beverage materials including coffee and tea5,10.0,0.1,1.2
+2023,beverage materials including coffee and tea6,3.7,0.03,-0.9
+2023,boys and girls footwear,8.5,0.08,0.9
+2023,breakfast sausage and related products67,3.8,0.04,2.8
+2023,candy and chewing gum45,5.25,0.05,4.8
+2023,canned fruits and vegetables5,5.8,0.06,-2.4
+2023,canned fruits and vegetables6,9.6,0.09,3.9
+2023,canned vegetables56,4.9,0.05,-0.6
+2023,carbonated drinks,2.88,0.02,2.1
+2023,cereals and bakery products,6.53,0.06,1.7
+2023,cereals and cereal products,6.2,0.06,0.6
+2023,citrus fruits5,6.3,0.06,5.4
+2023,clocks lamps and decorator items5,2.6,0.02,1.2
+2023,cosmetics perfume bath nail preparations and implements5,4.75,0.04,-1.8
+2023,dairy and related products,8.65,0.08,1.3
+2023,dishes and flatware45,8.5,0.08,-8.4
+2023,dishes and flatware56,15.76,0.16,-8
+2023,distilled spirits excluding whiskey at home6,1.9,0.01,-0.4
+2023,dried beans peas and lentils456,5.8,0.05,4.6
+2023,electricity,6.13,0.06,4.9
+2023,eyeglasses and eye care49,2.62,0.02,4.3
+2023,eyeglasses and eye care510,2.62,0.02,1.3
+2023,fats and oils,3.42,0.03,2.4
+2023,fish and seafood,8.33,0.08,-2.3
+2023,floor coverings45,4.55,0.04,-4.6
+2023,flour and prepared flour mixes,7.88,0.07,-0.2
+2023,food at elementary and secondary schools486,6.4,0.06,-43.5
+2023,footwear,15.57,0.15,1.0
+2023,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2023,fresh fish and seafood45,4.5,0.05,-0.8
+2023,fresh fruits,7.09,0.07,3.6
+2023,fresh vegetables,10.05,0.1,0.8
+2023,frozen and freeze dried prepared foods,10.94,0.1,-0.4
+2023,frozen and freeze dried prepared foods4,10.71,0.1,-1.0
+2023,frozen and freeze dried prepared foods5,11.2,0.11,0.9
+2023,frozen fish and seafood6,6.0,0.06,4.3
+2023,frozen fish and seafood7,8.25,0.08,1.5
+2023,frozen fruits and vegetables5,9.7,0.09,-1.6
+2023,frozen fruits and vegetables6,3.2,0.03,-0.2
+2023,frozen noncarbonated juices and drinks45,8.97,0.09,13.3
+2023,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2023,frozen vegetables6,13.1,0.12,-1.2
+2023,fruits and vegetables,6.0,0.06,1.7
+2023,fuel oil and other fuels,2.95,0.02,-7.0
+2023,furniture and bedding,5.37,0.05,1.6
+2023,gasoline all types,3.3,0.03,-10.3
+2023,hair dental shaving and miscellaneous personal care products45,6.28,0.06,6.0
+2023,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2023,ham,14.1,0.14,-1.9
+2023,household cleaning products45,3.5,0.03,0.9
+2023,household cleaning products5,4.5,0.04,1.8
+2023,household furnishings and operations,26.0,0.26,-0.6
+2023,household furnishings and supplies11,5.0,0.05,0.6
+2023,household furnishings and supplies12,5.3,0.05,0.4
+2023,household paper products45,4.35,0.04,-0.1
+2023,household paper products56,2.93,0.03,5.6
+2023,ice cream and related products,19.0,0.19,1.4
+2023,indoor plants and flowers12,6.85,0.06,1.4
+2023,indoor plants and flowers13,17.0,0.17,-0.6
+2023,infants and toddlers apparel,14.97,0.15,-4.0
+2023,intracity transportation4,2.0,0.02,1.1
+2023,intracity transportation5,2.0,0.02,2.6
+2023,jewelry and watches10,7.76,0.07,-2.1
+2023,jewelry and watches9,5.25,0.05,-0.5
+2023,jewelry10,6.06,0.06,3.7
+2023,jewelry9,5.2,0.05,-0.6
+2023,juices and nonalcoholic drinks5,5.5,0.05,2.5
+2023,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2023,laundry equipment46,5.4,0.05,7.9
+2023,meats poultry fish and eggs,8.75,0.08,1.0
+2023,medicinal drugs11,6.33,0.06,1.1
+2023,medicinal drugs412,6.5,0.06,0.9
+2023,mens and boys apparel,10.08,0.1,-2.7
+2023,mens apparel,14.07,0.14,-4.1
+2023,mens footwear4,7.83,0.08,2.2
+2023,mens footwear5,8.93,0.08,-0.2
+2023,mens pants and shorts,11.73,0.11,-1.6
+2023,mens shirts and sweaters5,6.13,0.06,6.1
+2023,mens shirts and sweaters6,11.18,0.11,-2.8
+2023,mens suits sport coats and outerwear,13.4,0.13,-9.8
+2023,mens underwear nightwear swimwear and accessories,7.5,0.07,1.6
+2023,mens underwear nightwear swimwear and accessories4,4.43,0.04,5.2
+2023,motor vehicle body work4,2.5,0.02,0.7
+2023,motor vehicle parts and equipment4,2.75,0.02,2.9
+2023,motor vehicle parts and equipment5,3.51,0.03,1.7
+2023,music instruments and accessories45,4.27,0.04,-0.1
+2023,music instruments and accessories56,3.76,0.03,2.7
+2023,nonalcoholic beverages and beverage materials,4.6,0.04,1.9
+2023,nonelectric cookware and tableware45,5.12,0.04,0.9
+2023,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2023,nonprescription drugs412,4.63,0.04,1.6
+2023,nonprescription drugs512,6.15,0.06,0.5
+2023,oranges including tangerines6,2.7,0.02,12.4
+2023,other bakery products,6.75,0.06,3.4
+2023,other beverage materials including tea45,3.0,0.03,3.9
+2023,other beverage materials including tea56,12.1,0.12,0.6
+2023,other condiments6,6.95,0.06,5.2
+2023,other dairy and related products45,13.33,0.13,-0.1
+2023,other dairy and related products5,13.75,0.14,2.0
+2023,other dairy and related products56,8.2,0.08,-0.8
+2023,other foods,1.4,0.01,2.6
+2023,other fresh fruits5,4.5,0.04,3.2
+2023,other fresh vegetables,14.33,0.14,2.6
+2023,other furniture45,3.5,0.03,1.8
+2023,other household equipment and furnishings5,3.1,0.03,-1.0
+2023,other intercity transportation,8.25,0.08,-5.7
+2023,other linens45,10.69,0.1,3.9
+2023,other linens5,8.8,0.08,-3.6
+2023,other linens56,4.5,0.04,-6.2
+2023,other pork including roasts and picnics5,5.33,0.05,5.4
+2023,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2023,other processed fruits and vegetables including dried5,8.03,0.08,0.4
+2023,other processed fruits and vegetables including dried6,2.9,0.02,-0.4
+2023,other recreational goods6,3.5,0.03,-4.3
+2023,outdoor equipment and supplies45,2.4,0.02,-2.2
+2023,peanut butter567,43.9,0.43,-7.5
+2023,photographers and film processing45,6.8,0.06,-1.4
+2023,photographic equipment and supplies,3.04,0.02,-0.9
+2023,photographic equipment56,3.4,0.03,-1.8
+2023,postage,4.7,0.04,16.1
+2023,potatoes,9.25,0.09,-0.9
+2023,prescription drugs11,3.7,0.03,0.8
+2023,prescription drugs4,6.0,0.06,0.4
+2023,processed fish and seafood5,17.0,0.17,-1.9
+2023,processed fish and seafood6,5.67,0.06,-1.9
+2023,processed fruits and vegetables5,9.69,0.09,-0.5
+2023,processed fruits and vegetables6,16.05,0.16,1.5
+2023,recreation commodities11,5.0,0.05,-2.3
+2023,rice pasta cornmeal5,3.0,0.03,2.7
+2023,salt and other seasonings and spices67,6.5,0.06,-0.2
+2023,sewing machines fabric and supplies45,9.12,0.09,-4.8
+2023,sewing machines fabric and supplies56,8.14,0.08,5.5
+2023,soups,3.2,0.03,1.4
+2023,spices seasonings condiments sauces,4.7,0.04,1.6
+2023,sports equipment,6.05,0.06,-1.4
+2023,sports equipment4,4.0,0.04,-2.4
+2023,sugar and artificial sweeteners,7.74,0.08,-4.2
+2023,sugar and sugar substitutes,7.84,0.08,1.7
+2023,sugar and sweets4,6.0,0.06,3.9
+2023,sugar and sweets5,6.43,0.06,4.4
+2023,televisions,5.0,0.05,-1.5
+2023,tobacco and smoking products,142.82,1.43,4.3
+2023,tobacco products other than cigarettes45,177.88,1.78,4.5
+2023,tobacco products other than cigarettes56,350.0,3.5,2.7
+2023,tomatoes,9.85,0.09,3.9
+2023,tomatoes4,11.6,0.11,-4.3
+2023,tools hardware and supplies56,9.0,0.09,2
+2023,toys,4.3,0.04,-2.8
+2023,transportation commodities less motor fuel11,25.0,0.25,-0.8
+2023,transportation services,5.3,0.05,7.9
+2023,uncooked beef steaks6,6.4,0.06,2.5
+2023,uncooked ground beef4,4.0,0.04,2.3
+2023,uncooked ground beef5,4.5,0.04,4.7
+2023,used cars and trucks,2.5,0.02,-2.2
+2023,vehicle parts and equipment other than tires46,4.62,0.04,8.7
+2023,vehicle parts and equipment other than tires57,4.0,0.04,2.4
+2023,watches49,9.0,0.09,7.4
+2023,window and floor coverings and other linens45,9.3,0.09,6.8
+2023,window and floor coverings and other linens5,8.85,0.08,-3.4
+2023,womens and girls apparel,10.55,0.1,-0.1
+2023,womens apparel,11.59,0.11,-0.1
+2023,womens dresses,12.18,0.12,-4.3
+2023,womens footwear,10.0,0.1,1.1
+2023,womens outerwear,5.21,0.05,-4.4
+2023,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2023,womens underwear nightwear swimwear and accessories5,10.02,0.1,0.6
+2023,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
+2024,dairy and related products,12.02,0.12,1.3
+2024,electricity,5.0,0.05,4.9
+2024,energy commodities,4.76,0.05,-10.1
+2024,motor fuel,2.87,0.03,-10.4
+2024,alcoholic beverages,5.5,0.06,1.9
+2024,apparel,8.55,0.09,0.3
+2024,apparel less footwear,9.72,0.1,0.1
+2024,bakery products4,9.25,0.09,1.3
+2024,bakery products5,10.0,0.1,1.8
+2024,beverage materials including coffee and tea5,10.0,0.1,1.2
+2024,beverage materials including coffee and tea6,3.7,0.04,-0.9
+2024,boys and girls footwear,8.5,0.08,0.9
+2024,breakfast sausage and related products67,3.8,0.04,2.8
+2024,candy and chewing gum45,5.25,0.05,4.8
+2024,canned fruits and vegetables5,5.8,0.06,-2.4
+2024,canned fruits and vegetables6,9.6,0.1,3.9
+2024,canned vegetables56,4.9,0.05,-0.6
+2024,carbonated drinks,2.88,0.03,2.1
+2024,cereals and bakery products,6.53,0.07,1.7
+2024,cereals and cereal products,6.2,0.06,0.6
+2024,citrus fruits5,6.3,0.06,5.4
+2024,clocks lamps and decorator items5,2.6,0.03,1.2
+2024,cosmetics perfume bath nail preparations and implements5,4.75,0.05,-1.8
+2024,dairy and related products,8.65,0.09,1.3
+2024,dishes and flatware45,8.5,0.08,-8.4
+2024,dishes and flatware56,15.76,0.16,-8
+2024,distilled spirits excluding whiskey at home6,1.9,0.02,-0.4
+2024,dried beans peas and lentils456,5.8,0.06,4.6
+2024,electricity,6.13,0.06,4.9
+2024,eyeglasses and eye care49,2.62,0.03,4.3
+2024,eyeglasses and eye care510,2.62,0.03,1.3
+2024,fats and oils,3.42,0.03,2.4
+2024,fish and seafood,8.33,0.08,-2.3
+2024,floor coverings45,4.55,0.05,-4.6
+2024,flour and prepared flour mixes,7.88,0.08,-0.2
+2024,food at elementary and secondary schools486,6.4,0.06,-43.5
+2024,footwear,15.57,0.16,1.0
+2024,fresh and frozen chicken parts57,3.2,0.03,-0.8
+2024,fresh fish and seafood45,4.5,0.05,-0.8
+2024,fresh fruits,7.09,0.07,3.6
+2024,fresh vegetables,10.05,0.1,0.8
+2024,frozen and freeze dried prepared foods,10.94,0.11,-0.4
+2024,frozen and freeze dried prepared foods4,10.71,0.11,-1.0
+2024,frozen and freeze dried prepared foods5,11.2,0.11,0.9
+2024,frozen fish and seafood6,6.0,0.06,4.3
+2024,frozen fish and seafood7,8.25,0.08,1.5
+2024,frozen fruits and vegetables5,9.7,0.1,-1.6
+2024,frozen fruits and vegetables6,3.2,0.03,-0.2
+2024,frozen noncarbonated juices and drinks45,8.97,0.09,13.3
+2024,frozen noncarbonated juices and drinks56,11.2,0.11,-3.1
+2024,frozen vegetables6,13.1,0.13,-1.2
+2024,fruits and vegetables,6.0,0.06,1.7
+2024,fuel oil and other fuels,2.95,0.03,-7.0
+2024,furniture and bedding,5.37,0.05,1.6
+2024,gasoline all types,3.3,0.03,-10.3
+2024,hair dental shaving and miscellaneous personal care products45,6.28,0.06,6.0
+2024,hair dental shaving and miscellaneous personal care products56,5.3,0.05,1.2
+2024,ham,14.1,0.14,-1.9
+2024,household cleaning products45,3.5,0.04,0.9
+2024,household cleaning products5,4.5,0.04,1.8
+2024,household furnishings and operations,26.0,0.26,-0.6
+2024,household furnishings and supplies11,5.0,0.05,0.6
+2024,household furnishings and supplies12,5.3,0.05,0.4
+2024,household paper products45,4.35,0.04,-0.1
+2024,household paper products56,2.93,0.03,5.6
+2024,ice cream and related products,19.0,0.19,1.4
+2024,indoor plants and flowers12,6.85,0.07,1.4
+2024,indoor plants and flowers13,17.0,0.17,-0.6
+2024,infants and toddlers apparel,14.97,0.15,-4.0
+2024,intracity transportation4,2.0,0.02,1.1
+2024,intracity transportation5,2.0,0.02,2.6
+2024,jewelry and watches10,7.76,0.08,-2.1
+2024,jewelry and watches9,5.25,0.05,-0.5
+2024,jewelry10,6.06,0.06,3.7
+2024,jewelry9,5.2,0.05,-0.6
+2024,juices and nonalcoholic drinks5,5.5,0.06,2.5
+2024,juices and nonalcoholic drinks6,8.5,0.08,1.2
+2024,laundry equipment46,2.67,0.03,7.9
+2024,meats poultry fish and eggs,8.75,0.09,1.0
+2024,medicinal drugs11,6.33,0.06,1.1
+2024,medicinal drugs412,6.5,0.06,0.9
+2024,mens and boys apparel,10.08,0.1,-2.7
+2024,mens apparel,14.07,0.14,-4.1
+2024,mens footwear4,7.83,0.08,2.2
+2024,mens footwear5,8.93,0.09,-0.2
+2024,mens pants and shorts,11.73,0.12,-1.6
+2024,mens shirts and sweaters5,6.13,0.06,6.1
+2024,mens shirts and sweaters6,11.18,0.11,-2.8
+2024,mens suits sport coats and outerwear,13.4,0.13,-9.8
+2024,mens underwear nightwear swimwear and accessories,7.5,0.08,1.6
+2024,mens underwear nightwear swimwear and accessories4,4.43,0.04,5.2
+2024,motor vehicle body work4,2.5,0.02,0.7
+2024,motor vehicle parts and equipment4,2.75,0.03,2.9
+2024,motor vehicle parts and equipment5,3.51,0.04,1.7
+2024,music instruments and accessories45,4.27,0.04,-0.1
+2024,music instruments and accessories56,3.76,0.04,2.7
+2024,nonalcoholic beverages and beverage materials,4.6,0.05,1.9
+2024,nonelectric cookware and tableware45,5.12,0.05,0.9
+2024,nonfrozen noncarbonated juices and drinks6,8.7,0.09,2.4
+2024,nonprescription drugs412,4.63,0.05,1.6
+2024,nonprescription drugs512,6.15,0.06,0.5
+2024,oranges including tangerines6,2.7,0.03,12.4
+2024,other bakery products,6.75,0.07,3.4
+2024,other beverage materials including tea45,3.0,0.03,3.9
+2024,other beverage materials including tea56,12.1,0.12,0.6
+2024,other condiments6,6.95,0.07,5.2
+2024,other dairy and related products45,13.33,0.13,-0.1
+2024,other dairy and related products5,13.75,0.14,2.0
+2024,other dairy and related products56,8.2,0.08,-0.8
+2024,other foods,1.4,0.01,2.6
+2024,other fresh fruits5,4.5,0.04,3.2
+2024,other fresh vegetables,14.33,0.14,2.6
+2024,other furniture45,3.5,0.04,1.8
+2024,other household equipment and furnishings5,3.1,0.03,-1.0
+2024,other intercity transportation,8.25,0.08,-5.7
+2024,other linens45,10.69,0.11,3.9
+2024,other linens5,8.8,0.09,-3.6
+2024,other linens56,4.5,0.04,-6.2
+2024,other pork including roasts and picnics5,5.33,0.05,5.4
+2024,other pork including roasts steaks and ribs5,3.2,0.03,-0.6
+2024,other processed fruits and vegetables including dried5,8.03,0.08,0.4
+2024,other processed fruits and vegetables including dried6,2.9,0.03,-0.4
+2024,other recreational goods6,3.5,0.04,-4.3
+2024,outdoor equipment and supplies45,2.4,0.02,-2.2
+2024,peanut butter567,43.9,0.44,-7.5
+2024,photographers and film processing45,6.8,0.07,-1.4
+2024,photographic equipment and supplies,3.04,0.03,-0.9
+2024,photographic equipment56,3.4,0.03,-1.8
+2024,postage,4.7,0.05,16.1
+2024,potatoes,9.25,0.09,-0.9
+2024,prescription drugs11,3.7,0.04,0.8
+2024,prescription drugs4,6.0,0.06,0.4
+2024,processed fish and seafood5,17.0,0.17,-1.9
+2024,processed fish and seafood6,5.67,0.06,-1.9
+2024,processed fruits and vegetables5,9.69,0.1,-0.5
+2024,processed fruits and vegetables6,16.05,0.16,1.5
+2024,recreation commodities11,5.0,0.05,-2.3
+2024,rice pasta cornmeal5,3.0,0.03,2.7
+2024,salt and other seasonings and spices67,6.5,0.06,-0.2
+2024,sewing machines fabric and supplies45,9.12,0.09,-4.8
+2024,sewing machines fabric and supplies56,8.14,0.08,5.5
+2024,soups,3.2,0.03,1.4
+2024,spices seasonings condiments sauces,4.7,0.05,1.6
+2024,sports equipment,6.05,0.06,-1.4
+2024,sports equipment4,4.0,0.04,-2.4
+2024,sugar and artificial sweeteners,7.74,0.08,-4.2
+2024,sugar and sugar substitutes,7.84,0.08,1.7
+2024,sugar and sweets4,6.0,0.06,3.9
+2024,sugar and sweets5,6.43,0.06,4.4
+2024,televisions,5.0,0.05,-1.5
+2024,tobacco and smoking products,142.82,1.43,4.3
+2024,tobacco products other than cigarettes45,177.88,1.78,4.5
+2024,tobacco products other than cigarettes56,350.0,3.5,2.7
+2024,tomatoes,9.85,0.1,3.9
+2024,tomatoes4,11.6,0.12,-4.3
+2024,tools hardware and supplies56,9.0,0.09,2
+2024,toys,4.3,0.04,-2.8
+2024,transportation commodities less motor fuel11,25.0,0.25,-0.8
+2024,transportation services,5.3,0.05,7.9
+2024,uncooked beef steaks6,6.4,0.06,2.5
+2024,uncooked ground beef4,4.0,0.04,2.3
+2024,uncooked ground beef5,4.5,0.04,4.7
+2024,used cars and trucks,2.5,0.02,-2.2
+2024,vehicle parts and equipment other than tires46,4.62,0.05,8.7
+2024,vehicle parts and equipment other than tires57,4.0,0.04,2.4
+2024,watches49,9.0,0.09,7.4
+2024,window and floor coverings and other linens45,9.3,0.09,6.8
+2024,window and floor coverings and other linens5,8.85,0.09,-3.4
+2024,womens and girls apparel,10.55,0.11,-0.1
+2024,womens apparel,11.59,0.12,-0.1
+2024,womens dresses,12.18,0.12,-4.3
+2024,womens footwear,10.0,0.1,1.1
+2024,womens outerwear,5.21,0.05,-4.4
+2024,womens underwear nightwear sportswear and accessories5,8.1,0.08,-5.5
+2024,womens underwear nightwear swimwear and accessories5,10.02,0.1,0.6
+2024,womens underwear nightwear swimwear and accessories6,7.34,0.07,-1.7
